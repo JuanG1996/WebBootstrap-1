@@ -8,6 +8,10 @@ body{
   font-family: "Saira", sans-serif;
 }
 
+section{
+  padding: 15vh 0;
+}
+
 /* Hero */
 
 .hero{
