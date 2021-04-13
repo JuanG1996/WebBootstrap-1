@@ -146,3 +146,14 @@ section{
 .price-footer{
   margin-bottom: 40px;
 }
+
+/* Contacto */
+.suscribe-area{
+  background: url(img/subscribe-bg.jpg) no-repeat scroll center center / cover;
+}
+
+.subscribe-form{
+  background-color: #fff;
+  padding: 60px;
+  border-radius: 5px;
+}
