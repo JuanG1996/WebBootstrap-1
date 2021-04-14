@@ -157,3 +157,29 @@ section{
   padding: 60px;
   border-radius: 5px;
 }
+
+/* Footer */
+footer{
+  background-color: #4d43c6;
+  color: #ccc;
+}
+
+.rrss-icon{
+  font-size: 20px;
+  color: #ccc;
+}
+
+.copy{
+  font-size: 10px;
+
+}
+
+.copy-link{
+  color: #ccc;
+}
+
+.rrss-icon:hover, .copy-link:hover{
+  color: #17a2b8;
+  text-decoration: none;
+  transition: 0.5s all ease;
+}
